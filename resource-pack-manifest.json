@@ -1,0 +1,490 @@
+{
+  "packId": "duufaan-game-assets",
+  "version": "1.0",
+  "packType": "base-game-assets",
+  "isHdPack": false,
+  "sourceRepository": "https://github.com/TensorDriftStudio/OpenRally",
+  "attribution": "OpenRally by TensorDrift Studio; MIT License included. DUUFAAN project assets include user-supplied updates.",
+  "files": [
+    {
+      "path": "apple-touch-icon.png",
+      "sizeBytes": 29128,
+      "sha256": "289927b50ff1d291b2d78647e8f22f655a82c641ebf5177fdba273bd6339d0fe"
+    },
+    {
+      "path": "duufaan-mark-16.png",
+      "sizeBytes": 821,
+      "sha256": "1af3a17e25a90cf26f38cd8477cbb39664185c704cd15ac510ebb11dab49c1ba"
+    },
+    {
+      "path": "duufaan-mark-180.png",
+      "sizeBytes": 49159,
+      "sha256": "149c2886ed356b9e56ba2c4c8fa0a7e3666cb5030024b879f8b2cedaaa5e42a3"
+    },
+    {
+      "path": "duufaan-mark-32.png",
+      "sizeBytes": 2422,
+      "sha256": "4d62423a22be034c7fdac613d9dbd62cd3f38ec9461098345fbea4de131a73ad"
+    },
+    {
+      "path": "duufaan-mark-512.png",
+      "sizeBytes": 254054,
+      "sha256": "0d05b53defd8ce9a7c0dd42e0dba0fc1e2dfe3f180e7fbddcffcd19fea6c24ee"
+    },
+    {
+      "path": "favicon-16x16.png",
+      "sizeBytes": 557,
+      "sha256": "d568a266fdb35d1288e41e59d3663d8286ca660ef0a6fbf076ee78d78cb00aa7"
+    },
+    {
+      "path": "favicon-32x32.png",
+      "sizeBytes": 1624,
+      "sha256": "e9ebe16e8da721bfaa832f2b5ad50e92b183a2e48bd2520653cabb7d168a2092"
+    },
+    {
+      "path": "favicon.ico",
+      "sizeBytes": 5960,
+      "sha256": "907525309b856eeb7628e896cbdc8ba38b980b22e29048338239c29b59c8c033"
+    },
+    {
+      "path": "favicon.png",
+      "sizeBytes": 185325,
+      "sha256": "1b95966494c7b28ff56e32b46699280d2a8aab2c7bf60381dd3d0eb4d32f2664"
+    },
+    {
+      "path": "icons.svg",
+      "sizeBytes": 5031,
+      "sha256": "b45fa506195cfcdef406ba9f0c77b36ddc1a7c224040926ec70abc2fdea7b93a"
+    },
+    {
+      "path": "images/loading-rally.jpg",
+      "sizeBytes": 885456,
+      "sha256": "9907ff7c0669aed502f525082e2b1b5b711f61ac6822398e8bf3e85be5bc64cf"
+    },
+    {
+      "path": "images/stages/apex_gymkhana.jpg",
+      "sizeBytes": 782461,
+      "sha256": "7cdea256e1d09b659eac78e9ce929764b11a78d1b116521be38f95710d9c422e"
+    },
+    {
+      "path": "images/stages/desert_canyon.jpg",
+      "sizeBytes": 1016538,
+      "sha256": "e5912405838fe55187652df4ed179819283c9fe5b2b949e91ba9896c9935aab0"
+    },
+    {
+      "path": "images/stages/highland_castle.jpg",
+      "sizeBytes": 980813,
+      "sha256": "d2d797fbb7e28c11d2a081c4f950fea426497ceae3b0bd0d529d7b1896e49424"
+    },
+    {
+      "path": "images/stages/island_circuit.jpg",
+      "sizeBytes": 1059313,
+      "sha256": "4e0333df5b2698e60f856531d113e25637bcb8d4d3c78422a32c36870e4237c7"
+    },
+    {
+      "path": "images/stages/sweden_snow.jpg",
+      "sizeBytes": 1055286,
+      "sha256": "aa9cfd92e8a74fceaca5ff3c3126f2d4e755f47339073f5f882bdf8b2a0e8a56"
+    },
+    {
+      "path": "images/ui/openrally_crest.jpg",
+      "sizeBytes": 417201,
+      "sha256": "fc31f39ecbf988492b93c8d71a6cf732b5b45d60161e9d1320db2573ec5ceb11"
+    },
+    {
+      "path": "images/ui/rally_backdrop.jpg",
+      "sizeBytes": 885456,
+      "sha256": "9907ff7c0669aed502f525082e2b1b5b711f61ac6822398e8bf3e85be5bc64cf"
+    },
+    {
+      "path": "images/ui/rally_finish_badge.jpg",
+      "sizeBytes": 776437,
+      "sha256": "a9338b1ac7548124137a040820ae9491bd589316dfa6310b12918adb80348b4f"
+    },
+    {
+      "path": "images/ui/rally_stage_card_bg.jpg",
+      "sizeBytes": 985854,
+      "sha256": "8346080cc2e2fa17d261824539b0cf3d369fa1f54316e0a29161112844301209"
+    },
+    {
+      "path": "models/vehicles/baseColor_1.webp",
+      "sizeBytes": 60090,
+      "sha256": "dfa8d03db10ec247eada3fdc087693b6e6d0ca50e7b60ae4369e431f4e6814e7"
+    },
+    {
+      "path": "models/vehicles/car_bantam_turbo.glb",
+      "sizeBytes": 2903044,
+      "sha256": "4f9a8730f3b1a7fd9789475da66f7fe7c3ee5f99cba86aab980f5e9fc5469f1d"
+    },
+    {
+      "path": "models/vehicles/car_bantam_turbo_opt.glb",
+      "sizeBytes": 852320,
+      "sha256": "7f4eb881b24faaae45cf39f8cbfda9d81c548a5c7bcbdb8bb46ab2196a3c346c"
+    },
+    {
+      "path": "models/vehicles/car_kodiak_raid.glb",
+      "sizeBytes": 3176820,
+      "sha256": "f269cba0089768d2ecec4661cc924934444e35a6a82627d90ad682a8b842ae23"
+    },
+    {
+      "path": "models/vehicles/car_kodiak_raid_opt.glb",
+      "sizeBytes": 944184,
+      "sha256": "0c0fd82a5dda6c637fbedb9026c729562fb60b0f04764dadad648d3e891f223d"
+    },
+    {
+      "path": "models/vehicles/car_phantom_b.glb",
+      "sizeBytes": 3292108,
+      "sha256": "929f4de69cdf8574286c9a5804b69bb9e60a5627a9b261ae7b7185a419de18eb"
+    },
+    {
+      "path": "models/vehicles/car_phantom_b_opt.glb",
+      "sizeBytes": 1060672,
+      "sha256": "7abba69adaf462847e5a15a05b69afcbed0e974168a999b39cf4b73dc6d5909a"
+    },
+    {
+      "path": "models/vehicles/car_shadowfire_rs.glb",
+      "sizeBytes": 3066912,
+      "sha256": "ff808fbc08955e0512a69fa68c19d733ed90134f4daf407cf6bd593bebffa47d"
+    },
+    {
+      "path": "models/vehicles/car_shadowfire_rs_opt.glb",
+      "sizeBytes": 860540,
+      "sha256": "ed6acb9c726fe62300559690b38580028178ac764135fc9f7394ba74da42c7b5"
+    },
+    {
+      "path": "models/vehicles/car_vanguard_gt.glb",
+      "sizeBytes": 2992024,
+      "sha256": "bd438e80bc2cf35e52d2b4920017cf5e1f7a6189027cc89c88f9b283c3d29fa6"
+    },
+    {
+      "path": "models/vehicles/car_vanguard_gt_opt.glb",
+      "sizeBytes": 858908,
+      "sha256": "08c271d94a055a137c02c40cd25d3451881832135f0a6de5b7442cb006c7da46"
+    },
+    {
+      "path": "models/vehicles/car_vortex_b.glb",
+      "sizeBytes": 10273196,
+      "sha256": "4b5493e82cd30dab7a7547269cbeb352f9c1b86fd268f69f717374e9a2f26075"
+    },
+    {
+      "path": "models/vehicles/car_vortex_b_opt.glb",
+      "sizeBytes": 10273196,
+      "sha256": "4b5493e82cd30dab7a7547269cbeb352f9c1b86fd268f69f717374e9a2f26075"
+    },
+    {
+      "path": "models/vehicles/car_zephyr_wr4.glb",
+      "sizeBytes": 3059436,
+      "sha256": "0d64bdf53b98e0b72203773de1b59a88db6da526d8a81fbcea7e2b6e71a0f34a"
+    },
+    {
+      "path": "models/vehicles/car_zephyr_wr4_opt.glb",
+      "sizeBytes": 875824,
+      "sha256": "c8b16f84190d2f29ba990bf7d05d60dd5f1fef7bc22a40c8c6e6198da1a94add"
+    },
+    {
+      "path": "models/vehicles/metallicRoughness_1.webp",
+      "sizeBytes": 49664,
+      "sha256": "20200888c0ed3656bafbfbdd3ea03b3f3cf8fdc7038bd97a434a87b5379996e2"
+    },
+    {
+      "path": "models/vehicles/wheel.glb",
+      "sizeBytes": 3397640,
+      "sha256": "1965e25385f542ae4aaff53c74bac600e745da5e994e4ec5cb799524c50be699"
+    },
+    {
+      "path": "models/vehicles/wheel_opt.glb",
+      "sizeBytes": 631312,
+      "sha256": "5a317dc055f42b4948f8dbd5d6cb6198009101041319f4be16cea004ee63f118"
+    },
+    {
+      "path": "openrally_emblem.png",
+      "sizeBytes": 181468,
+      "sha256": "89815148b1c4f0838352b17b1c4cd30d460560cba8eb2f32c420ebad48caf540"
+    },
+    {
+      "path": "openrally_logo.png",
+      "sizeBytes": 597516,
+      "sha256": "3c77f76a529368254655ea38147801a440bf9d0c9e93c3a6316df02dc755ab53"
+    },
+    {
+      "path": "openrally_logo_dark.jpg",
+      "sizeBytes": 438439,
+      "sha256": "d9775cd8519b4d53bb26a9bb37941b1f1d40d93d85cb5a6f1cc04c77cc674b1e"
+    },
+    {
+      "path": "openrally_logo_dark.png",
+      "sizeBytes": 650247,
+      "sha256": "e48a5de0e6d2454d105a40d7a7f048b9ec5c8a4b9bb65a7dba169bb66acc00e9"
+    },
+    {
+      "path": "openrally_logo_darkmode.png",
+      "sizeBytes": 321898,
+      "sha256": "e1cc6f057715b795abcc54d6d0cc8b3023845813d5e29f97419533fad07b76c5"
+    },
+    {
+      "path": "openrally_logo_transparent.png",
+      "sizeBytes": 355989,
+      "sha256": "91515bb505164bfe0cfc6f6e2eb9790ccc7c7a2de1611a743c3cda28e971ab0c"
+    },
+    {
+      "path": "sounds/engine-loop.mp3",
+      "sizeBytes": 160957,
+      "sha256": "53ed3f0ad60d9be5716b02a1d054dd514119d3fa57ecb756e8c82f3c0e667883"
+    },
+    {
+      "path": "sounds/freeroam-music.mp3",
+      "sizeBytes": 7201241,
+      "sha256": "ac32010d294e49efc60493d5e47b7e5d2060c34b8b8bcfb69d70984cf6f9400d"
+    },
+    {
+      "path": "sounds/menu-music.mp3",
+      "sizeBytes": 2910807,
+      "sha256": "955d6be2279400b50edf64496b45c5dc8a0bd738667ed5ec4ddb297a0416e6df"
+    },
+    {
+      "path": "sounds/sand-loop.mp3",
+      "sizeBytes": 146329,
+      "sha256": "c7cc6bcc78e6c61ae079d7a3cbfd0f54215aa9d67126588164146082f80aae0a"
+    },
+    {
+      "path": "textures/foliage/birch_bark.jpg",
+      "sizeBytes": 1127289,
+      "sha256": "a60f70f8c6fd343293289a73d4aed5f5d4cd392d51f4935ec958825580556e0c"
+    },
+    {
+      "path": "textures/foliage/desert_acacia_branch.jpg",
+      "sizeBytes": 602174,
+      "sha256": "feb1b2f2f4d65c3593058b56d6988700e5ad6eea07eef5afa34c9be3d394493f"
+    },
+    {
+      "path": "textures/foliage/desert_bark.jpg",
+      "sizeBytes": 1193571,
+      "sha256": "9b7155fd84c381aaa39379df7a0ac4bc2bb4b466f2df330cd5924e25342f9ab4"
+    },
+    {
+      "path": "textures/foliage/desert_tuft.jpg",
+      "sizeBytes": 848698,
+      "sha256": "c98f8ab8de653d59c2ffbf681c3b9139d64263339940a6d2236db02555c2393a"
+    },
+    {
+      "path": "textures/foliage/grass_tuft.jpg",
+      "sizeBytes": 891711,
+      "sha256": "723158d738f13cc63177c4a53150f674c926482bbcda9f5c581bcd98597ccf8a"
+    },
+    {
+      "path": "textures/foliage/leafy_branch.jpg",
+      "sizeBytes": 887005,
+      "sha256": "6131a6e0c47c8cfea29b80f0c2015cda47a9a8e9535f4ae7bfb240ad0c94403c"
+    },
+    {
+      "path": "textures/foliage/pine_branch.jpg",
+      "sizeBytes": 826362,
+      "sha256": "a79e7731d4e235431bf6ce90246d38998b90a6af6892edc9b764b8aff9fc98b5"
+    },
+    {
+      "path": "textures/foliage/pine_branch_snow.jpg",
+      "sizeBytes": 761237,
+      "sha256": "ecb32aacc0af830831e9700420b7a3a6958bfe4f3eec66ebe2a135b2db7834bb"
+    },
+    {
+      "path": "textures/foliage/tree_bark.jpg",
+      "sizeBytes": 1175365,
+      "sha256": "e0b60b1d812652946279a4c82fdf205cc4c90b7f9d7eea7d6d6da842e1aecca8"
+    },
+    {
+      "path": "textures/foliage/wildflower_tuft.jpg",
+      "sizeBytes": 816200,
+      "sha256": "32dd97a0c2a13cfee9daade658813184c43da5ca6acff209d523edb28c839cb3"
+    },
+    {
+      "path": "textures/placeholder.png",
+      "sizeBytes": 67,
+      "sha256": "5a27dfd7b6a8cec9e48d5378d5db4d66dc4215f28cc24f99ab57326011385feb"
+    },
+    {
+      "path": "textures/props/british_drystone_wall.jpg",
+      "sizeBytes": 1344313,
+      "sha256": "5c497a7133f7a2aefa46153cbcc0f0f16e16fada9d00ce39d69a5ff6430081d3"
+    },
+    {
+      "path": "textures/props/cabin_door.jpg",
+      "sizeBytes": 1002077,
+      "sha256": "6d15be74122607de79d806f6dbfec9f7ec6b165ac9c028f8227135f25421af0b"
+    },
+    {
+      "path": "textures/props/cabin_red_wall.jpg",
+      "sizeBytes": 1074885,
+      "sha256": "af4e69180e9e653395de8d83012cd776018a9f7ca1ac14dbca8dea9b5603b714"
+    },
+    {
+      "path": "textures/props/cabin_roof.jpg",
+      "sizeBytes": 1202893,
+      "sha256": "f6b194afc277c7ca631d8ec52b6df6a46ce145d3cbc9986744b406603fc1a721"
+    },
+    {
+      "path": "textures/props/cabin_roof_snow.jpg",
+      "sizeBytes": 1142215,
+      "sha256": "e285bf93135f7d565f0b0fe0fa940931809da24f5252dee6032297139395cde2"
+    },
+    {
+      "path": "textures/props/cabin_timber_wall.jpg",
+      "sizeBytes": 1152476,
+      "sha256": "b7b20ca9c4be0208e174456522189192ca3c1e94131f8b31ca44887c3ec53016"
+    },
+    {
+      "path": "textures/props/cabin_window.jpg",
+      "sizeBytes": 967002,
+      "sha256": "62da5f17b3b8f9246db0c821ada57c6573d2954e7e0836633bb08fe50f501b06"
+    },
+    {
+      "path": "textures/props/cabin_wood.jpg",
+      "sizeBytes": 1155201,
+      "sha256": "d3617adbc8922d31b7169a7d4506c46f173abf416e5cd5f9ce0a437437a3b1a4"
+    },
+    {
+      "path": "textures/props/castle_cobblestone.jpg",
+      "sizeBytes": 1164726,
+      "sha256": "32be74a9b521e9784e8063d7b4569a77f07657879f31b63a01e8800e2709476d"
+    },
+    {
+      "path": "textures/props/castle_stone_wall.jpg",
+      "sizeBytes": 1244120,
+      "sha256": "ba34de830acf0c45cafb83d17a89946724b1f4a2771f23f40940a093264c6271"
+    },
+    {
+      "path": "textures/props/celtic_standing_stone.jpg",
+      "sizeBytes": 1351963,
+      "sha256": "af2f71dae3c86ab7b9edd03d0911fcc3e644fc86c66c8fda10b7cf56a8201438"
+    },
+    {
+      "path": "textures/props/highland_cottage_thatch.jpg",
+      "sizeBytes": 1374709,
+      "sha256": "3f80303cb0e42b3c1d9d8fa39b4a23796f742e04dda5ef9088b6d77702d18b46"
+    },
+    {
+      "path": "textures/props/highland_cottage_wall.jpg",
+      "sizeBytes": 1250687,
+      "sha256": "39ca2c61952d1074cd9a8e26233847f506f67674df3bc1412039448f462cf010"
+    },
+    {
+      "path": "textures/props/jump_ramp_diffuse.png",
+      "sizeBytes": 50532,
+      "sha256": "6431c3f1f43d27f257acd416d1b2cde68d2d73b65cf78ea35fd9d29c8346fdfd"
+    },
+    {
+      "path": "textures/props/rustic_fence.jpg",
+      "sizeBytes": 1173377,
+      "sha256": "4caf180e4788ad96dad22f86f680c06009254d11beada16adcb04fc47a2d4f2f"
+    },
+    {
+      "path": "textures/props/shipping_container_blue.jpg",
+      "sizeBytes": 244519,
+      "sha256": "e5020a8fb7bf0aef717ddfd3b1fa1b94577c598d6599bf9d3f906a2c964b1b49"
+    },
+    {
+      "path": "textures/props/shipping_container_orange.jpg",
+      "sizeBytes": 216221,
+      "sha256": "6b9bbacaa7f4f37901ef776df0916401596439cc37c4d1a8c4813baeadc4dc6e"
+    },
+    {
+      "path": "textures/props/shipping_container_red.jpg",
+      "sizeBytes": 270810,
+      "sha256": "123c2568f9764830da511bde0dd1be9e0b32d917eeb5375eea6b6c696928b0f7"
+    },
+    {
+      "path": "textures/race/banner_sector.jpg",
+      "sizeBytes": 197940,
+      "sha256": "3bad3c917dc18a060ca575d0c6f711b45bf5639b8217d7d95ce5cd24fb6e9148"
+    },
+    {
+      "path": "textures/race/banner_start_finish.jpg",
+      "sizeBytes": 389025,
+      "sha256": "1d829308394beb1508d1062d22045dcbea8a46eb6c0eca4c71f0cc92ef4f3306"
+    },
+    {
+      "path": "textures/race/carbon_fiber.jpg",
+      "sizeBytes": 924396,
+      "sha256": "63fef859d0de3ad7af766fd7636bdd8a59f553c82bd4424d7f8d11ecee9fc896"
+    },
+    {
+      "path": "textures/race/flag_sponsor.jpg",
+      "sizeBytes": 134832,
+      "sha256": "fd26189cf72f909d86e1feea14353eb9728da3e2c6b832e2e87d57407fae4ffd"
+    },
+    {
+      "path": "textures/race/gantry_header.jpg",
+      "sizeBytes": 125088,
+      "sha256": "b0a455b379c12a11cda9e80a8ddfaefdbb7fcb9c81e4e3d02721f64b8f8240ba"
+    },
+    {
+      "path": "textures/race/hazard_pad.jpg",
+      "sizeBytes": 1254215,
+      "sha256": "b38c7af2dc3a6efec8cc180022616dc1f1bd77b02ff2992f797caf2447d554a0"
+    },
+    {
+      "path": "textures/race/safety_barrier.jpg",
+      "sizeBytes": 897012,
+      "sha256": "fef083f0c800125587b8a6b43a1a9717e6b980667ecbaac34a845e7371baf45b"
+    },
+    {
+      "path": "textures/race/sponsor_strip.jpg",
+      "sizeBytes": 139071,
+      "sha256": "5718778691649ade03dc32c8392afc6fc4ab10e054bc5e416eee1a48cb9faa16"
+    },
+    {
+      "path": "textures/race/start_line.jpg",
+      "sizeBytes": 1159697,
+      "sha256": "68a2fe56df3ec55b110bad0bde07d5bc9e28608f37fe382595090116b0ff69fd"
+    },
+    {
+      "path": "textures/race/stunt_loop_tarmac.jpg",
+      "sizeBytes": 1333783,
+      "sha256": "ff7e2cd3cd7a7c02ffd0a210930ca55dac782e3e6bbdc8507b7895aa64eb3561"
+    },
+    {
+      "path": "textures/terrain/desert_sand.jpg",
+      "sizeBytes": 1418092,
+      "sha256": "0e2fee31dfe92eef5bcb525a7bf1e5522d40c09c69a47f475a38f6a350d69ab7"
+    },
+    {
+      "path": "textures/terrain/dirt_track.jpg",
+      "sizeBytes": 1306946,
+      "sha256": "3291ad5a2770885c04621e578d26c3299dc2373a6550869950696f78aaa8ac15"
+    },
+    {
+      "path": "textures/terrain/grass.jpg",
+      "sizeBytes": 1267153,
+      "sha256": "9595e08317c8825a6b69efd9900b94e0c3ca74cbba22882d307ddf8d2c05619f"
+    },
+    {
+      "path": "textures/terrain/highland_heather.jpg",
+      "sizeBytes": 1472554,
+      "sha256": "c54641db67d27aa25d55cab05941361dcf89d961bf0e3bf0e144d6938dacb75a"
+    },
+    {
+      "path": "textures/terrain/ice_lake.jpg",
+      "sizeBytes": 1253070,
+      "sha256": "9be3ec3b644bf448236aa10c379cc5ec77e9e0d8580c5ba46941077b5dc9287d"
+    },
+    {
+      "path": "textures/terrain/rock_cliff.jpg",
+      "sizeBytes": 1098544,
+      "sha256": "08ded34c8c918c5de54c3972b23960fb01e38bb0d75d61495e3592d6c0678f62"
+    },
+    {
+      "path": "textures/terrain/snow.jpg",
+      "sizeBytes": 701814,
+      "sha256": "61de1180d251e753535b1c4fbf960b081b52fa05cf62cc6b8d72592414eb017d"
+    },
+    {
+      "path": "textures/terrain/snow_track.jpg",
+      "sizeBytes": 973661,
+      "sha256": "7894e48a15c6148a17256b2f03e3f562c5f971b022599aed1fbf4c02939d8838"
+    },
+    {
+      "path": "textures/tire_track.png",
+      "sizeBytes": 675017,
+      "sha256": "f0faabc3822d266fea3232d48867e4d855da13b9103ca9af649c5f8668f9f182"
+    }
+  ]
+}
